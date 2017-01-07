@@ -369,7 +369,16 @@ div.preloader {
     min-height: 80px;
 }
 
+form input,
+form button
+{
+    margin: 5px 0;
+}
 
+form button
+{
+    border-radius: 10px !important;
+}
 
 .nim-menu.navbar-default .navbar-nav > li > a {
 	
